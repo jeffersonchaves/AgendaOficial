@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Administrador",
+        "login": "admin",
+        "senha": "admin"
+    },
+    {
+        "nome": "Arthur",
+        "login": "arthur",
+        "senha": "1a2B3c4D"
+    },
+    {
+        "nome": "Qualidade",
+        "login": "qualiSinc",
+        "senha": "Sh0w5h0w"
+    }
+]
