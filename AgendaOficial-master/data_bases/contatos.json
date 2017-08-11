@@ -1,0 +1,51 @@
+[
+    {
+        "nome": "Administrador",
+        "email": "admin@organizacao.com.br",
+        "telefone": "(47) 9 9999-9999",
+        "id": "595e889bcb96f",
+        "user": "admin"
+    },
+    {
+        "nome": "Me da um 10",
+        "email": "por.favor@professor.com",
+        "telefone": "(10) 10 1010-1010",
+        "id": "595e88d98840d",
+        "user": "admin"
+    },
+    {
+        "nome": "Eu Mesmo",
+        "email": "arthurcastro078@gmail.com",
+        "telefone": "(47) 9 9945-7759",
+        "id": "595e893c45ff1",
+        "user": "arthur"
+    },
+    {
+        "nome": "Voc\u00ea",
+        "email": "voce@voce.com",
+        "telefone": "(00) 0 0000-0000",
+        "id": "595e899080585",
+        "user": "arthur"
+    },
+    {
+        "nome": "Fabio",
+        "email": "fabio@professor.com",
+        "telefone": "(n\u00e3) o seio-nume",
+        "id": "595e89f9b2c17",
+        "user": "jeffinho"
+    },
+    {
+        "nome": "\u00c9 pedir muito um",
+        "email": "dez.quero@muito.com",
+        "telefone": "(01) 1010-1010",
+        "id": "59665d041187e",
+        "user": "jeffinho"
+    },
+    {
+        "nome": "asd",
+        "email": "asd@asd",
+        "telefone": "135432",
+        "id": "5978e90d36304",
+        "user": "arthur"
+    }
+]
